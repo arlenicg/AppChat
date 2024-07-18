@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppChat</string>
+    <string name="title_user">Usuario</string>
+    <string name="title_contraseña">Contraseña</string>
+    <string name="title_bienvenida">Bienvenido</string>
+    <string name="title_registro">Registro</string>
+    <string name="title_subtitleregistro">Realizar el registro a través de la aplicación</string>
+    <string name="content_description_logo">Imglogo</string>
+    <string name="content_description_icon_password">Mostrar password</string>
+    <string name="title_ingresar">Ingresar</string>
+    <string name="title_registrase">Registrarse</string>
+    <string name="content_description_back_arrow">back_arrow</string>
+    <string name="content_description_camera">Cámara</string>
+    <string name="content_description_send">Enviar</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "390829669568",
+    "firebase_url": "https://pruebachat-59535-default-rtdb.firebaseio.com",
+    "project_id": "pruebachat-59535",
+    "storage_bucket": "pruebachat-59535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390829669568:android:0fb44f2b4f0e146522c125",
+        "android_client_info": {
+          "package_name": "com.pruebachat.appchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cuM9FInD3lnJMqNx_ll51i7EEIB6gcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
